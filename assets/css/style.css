@@ -197,3 +197,22 @@ h2{
   background-position: center;
   background-size: cover;
 }
+
+.area4{
+  display: grid;
+  grid-template-columns: 550px 1fr;
+  background-color: #e8e9ee;
+}
+
+.area4--content{
+  padding: 200px 90px
+}
+.area4--text{
+  margin-bottom: 50px;
+  line-height:25px ;
+}
+.area4--img1{
+  background-image: url('../images/bg3.jpg');
+  background-position: left;
+  background-repeat: no-repeat;
+}
